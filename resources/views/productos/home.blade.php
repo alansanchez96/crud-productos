@@ -8,7 +8,7 @@
 
     <div class="mx-auto container py-12 px-4 sm:px-6 lg:flex lg:items-center lg:justify-between lg:py-16 lg:px-8">
         <a href="https://portfolio-alansan.epizy.com" target="_blank">
-            <img src="/build/assets/images/banner.png" alt="My logo" class="lg:w-2/3 w-full mx-auto" />
+            <img src="https://i.postimg.cc/T1cs737n/Alan-Sanchez-Desarrollador-Web-Banner-Linked-In.png" alt="My logo" class="lg:w-2/3 w-full mx-auto" />
         </a>
 
         <div class="mt-5 flex lg:mt-0 items-center lg:flex-shrink-0 justify-between gap-5">
